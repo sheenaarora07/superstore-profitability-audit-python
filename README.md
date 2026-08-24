@@ -27,6 +27,28 @@ profitability and identifying major drivers of profit loss across
 -   NumPy --- numerical calculations
 -   Matplotlib --- business visualization
 
+## 📊 Key Visualizations
+
+### Profit by Category
+
+![Profit by Category](images/profit_by_category.png)
+
+### Profit by Region
+
+![Profit by Region](images/profit_by_region.png)
+
+### Profitability by Sub-Category
+
+![Profitability by Sub-Category](images/profitability_by_subcategory.png)
+
+### Impact of Discount on Profit
+
+![Discount vs Profit](images/discount_vs_profit.png)
+
+### Top 10 Loss-Making Products
+
+![Top Loss-Making Products](images/top_loss_making_products.png)
+
 ## 🔍 Analysis Workflow
 
 **Data Profiling → Data Preparation → Profitability Analysis → Discount
